@@ -36,7 +36,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.8",
     "siteFonts": [],
-    "uniqCompNum": 0,
+    "uniqCompNum": 6,
     "versionPublish": "4.8.8",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/front-128x154.png",
@@ -686,7 +686,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "About the Project",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1133,7 +1133,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "Meet the Team",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -1672,7 +1672,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "Dataset",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -2185,7 +2185,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Prison process",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -4832,7 +4832,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Conclusion",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -5418,7 +5418,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Sources",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
