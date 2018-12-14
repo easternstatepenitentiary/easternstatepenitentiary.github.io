@@ -4872,6 +4872,9 @@ body {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
+.cid-rc9InVTz30 .card-title {
+  text-align: center;
+}
 .cid-rc9UbbekFE {
   padding-top: 0px;
   padding-bottom: 60px;
@@ -4931,6 +4934,9 @@ body {
 .cid-rc9ygnJIFY .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
+}
+.cid-rc9ygnJIFY .card-title {
+  text-align: center;
 }
 .cid-rc9AtyOIoU {
   padding-top: 0px;
